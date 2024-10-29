@@ -1,3 +1,8 @@
+
+
+## MontereyRainmeter
+This is my fork of [creewick's](https://github.com/creewick) Monterey skin [here](https://github.com/creewick/MontereyRainmeter) with my own changes and improvements.See [changelog](https://github.com/dmaccormac/MontereyRainmeter/blob/main/Changes.md) for update details.
+
 <img src="@Resources/Images/Banners/header.png"  />
 
 <div align="center">
@@ -9,7 +14,7 @@
 ## Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Get our [latest release](https://github.com/creewick/MontereyRainmeter/releases)
+2. Get our [latest release](https://github.com/dmaccormac/MontereyRainmeter/releases)
 3. Run `Monterey.rmskin`
 
 ## Wiki
