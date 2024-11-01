@@ -1,7 +1,10 @@
 
 
-## MontereyRainmeter
-This is my fork of [creewick's](https://github.com/creewick) Monterey skin [here](https://github.com/creewick/MontereyRainmeter) with my own changes and improvements.See [changelog](https://github.com/dmaccormac/MontereyRainmeter/blob/main/Changes.md) for update details.
+# MontereyRainmeter
+
+### This is my fork of [creewick's](https://github.com/creewick) Monterey skin [here](https://github.com/creewick/MontereyRainmeter) with my own changes and improvements. See changelog [here](https://github.com/dmaccormac/MontereyRainmeter/blob/main/CHANGELOG.md).
+
+<br>
 
 <img src="@Resources/Images/Banners/header.png"  />
 
